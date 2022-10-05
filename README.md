@@ -1,7 +1,7 @@
-<img align="center" alt="Coding" width="100%" src="https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg">
+<img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5">
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">I am a Web Developer and C/C++ also a Python programmer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/2215449/working.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgit24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgit24" /> </p>
 
