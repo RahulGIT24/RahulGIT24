@@ -5,10 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgit24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgit24" /> </p>
 
-
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **Python, HTML, CSS, C , MongoDB, Javascript**
+- 💬 Ask me about **Python, HTML, CSS, C , MongoDB, Javascript, React JS**
 
 - 📫 How to reach me **rg4005450@gmail.com**
 
