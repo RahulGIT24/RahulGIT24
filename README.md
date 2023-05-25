@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">I am a React Developer from India.</h3>
 
-<img src="https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5"></img>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgit24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgit24" /> </p>
- <img src="https://thumbs.gfycat.com/BoilingPolishedFawn-size_restricted.gif" alt="rahulgit24" align="center" />
+ <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="rahulgit24" align="center" width="100%"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgit24" alt="rahulgit24" /></a> </p>
 
