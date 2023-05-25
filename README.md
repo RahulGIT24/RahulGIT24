@@ -4,7 +4,7 @@
 <img src="https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgit24&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgit24" /> </p>
- <img src="https://thumbs.gfycat.com/BoilingPolishedFawn-size_restricted.gif" alt="rahulgit24" align="right" />
+ <img src="https://thumbs.gfycat.com/BoilingPolishedFawn-size_restricted.gif" alt="rahulgit24" align="center" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgit24" alt="rahulgit24" /></a> </p>
 
